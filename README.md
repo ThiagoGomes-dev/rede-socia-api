@@ -72,9 +72,3 @@ Abra `http://localhost:8080/swagger-ui.html` ou `http://localhost:8080/swagger-u
 - `/api/postagens` - CRUD de postagens
 - `/api/postagens/usuario/{usuarioId}` - Listar postagens de um usuário
 - `/api/postagens/usuario/{usuarioId}/{postagemId}` - Editar postagem de um usuário
-
-## Observações
-- Não há autenticação ou restrição de acesso: todos os endpoints estão liberados para facilitar testes e avaliação.
-- O projeto não possui mais funcionalidades relacionadas a pedidos, apenas usuários e postagens.
-
----
